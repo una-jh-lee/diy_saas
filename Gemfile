@@ -48,7 +48,7 @@ gem 'will_paginate'
 gem 'whenever', :require => false
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
-gem 'china_city'
+# gem 'china_city'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
 # gem "binding_of_caller"
